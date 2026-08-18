@@ -1,0 +1,6 @@
+{
+  "name": "README Architect - AI GitHub Docs Studio",
+  "description": "AI-powered GitHub README generator with anti-hallucination codebase analysis, multi-style templates, interactive badge builder, Mermaid architecture diagrams, live split-pane editor, and 1-click GitHub commits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
